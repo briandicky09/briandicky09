@@ -27,12 +27,6 @@
 - 🔥 Building projects to improve my skills  
 - 🎯 Goal: Become a professional developer  
 
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=briandicky09-blip&theme=tokyonight&hide_border=true"/>
-</p>
-
 ## 🐍 Contribution Snake
 
 ![snake](https://github.com/briandicky09-blip/briandicky09-blip/blob/output/github-contribution-grid-snake.svg)
