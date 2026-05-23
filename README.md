@@ -6,8 +6,6 @@
 
 ## 🌐 Connect with me
 <p align="center">
-  <a href="https://instagram.com/briandrneva">
-    <img src="https://img.shields.io/badge/Instagram-@briandrneva-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
   <a href="https://linkedin.com/in/briandicky">
     <img src="https://img.shields.io/badge/LinkedIn-briandicky-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
