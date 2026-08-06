@@ -21,10 +21,10 @@
 </p>
 
 ## ⚡ About Me
-- 🌱 Currently learning web development & cybersecurity  
+- 🌱 Currently learning fullstack developer & software engineer
 - 🔥 Building projects to improve my skills  
 - 🎯 Goal: Become a professional developer  
 
 ## 🐍 Contribution Snake
 
-![snake](https://github.com/briandicky09-blip/briandicky09-blip/blob/output/github-contribution-grid-snake.svg)
+![snake](https://github.com/briandicky09-blip/briandicky09-blip/blob/output/github-contribution-grid-snake.svg
