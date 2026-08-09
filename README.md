@@ -27,4 +27,4 @@
 
 ## 🐍 Contribution Snake
 
-![snake](https://github.com/briandicky09-blip/briandicky09-blip/blob/output/github-contribution-grid-snake.svg
+![snake](https://raw.githubusercontent.com/briandicky09/briandicky09/output/github-contribution-grid-snake.svg)
