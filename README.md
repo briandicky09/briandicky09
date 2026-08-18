@@ -5,7 +5,6 @@
 ### Building interfaces that feel simple — and systems that work.
 
 <p>
-<a href="https://briandicky.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Visit-2563EB?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 <a href="https://linkedin.com/in/briandicky"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:briandicky09@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
@@ -34,7 +33,8 @@ FOCUS
 
 ## `02` — What I build
 
-<table>
+<div align="center">
+<table align="center">
 <tr>
 <td width="33%" align="center">
 
@@ -65,6 +65,7 @@ Problem solving
 </td>
 </tr>
 </table>
+</div>
 
 ---
 
@@ -84,39 +85,48 @@ Problem solving
 
 ## `04` — Selected work
 
-> A few projects that represent how I like to solve problems.  
-> More projects live in my repositories.
+<div align="center">
+<table align="center">
+<tr>
+<td width="33%" valign="top" align="center">
 
 ### ◼ PULSE
 **Inventory Management Web App**
 
-A framework-free inventory system for small businesses, built around product, category, and supplier management.
+Framework-free inventory system for small businesses.
 
-`JavaScript` `CRUD` `localStorage` `Pub/Sub`
+`JavaScript` `CRUD` `localStorage`
 
-**Highlights:** low-stock & expiry alerts · live search · KPI dashboard · offline persistence
+Low-stock alerts · Live search · KPI dashboard
 
----
+</td>
+<td width="33%" valign="top" align="center">
 
 ### ◼ Kopi Nusantara
 **Coffee E-Commerce Experience**
 
-A six-page responsive e-commerce website for an Indonesian coffee brand, designed mobile-first without a CSS framework.
+Six-page responsive e-commerce website for an Indonesian coffee brand.
 
-`HTML` `CSS` `Vanilla JavaScript`
+`HTML` `CSS` `JavaScript`
 
-**Highlights:** shopping cart · order form · validation · responsive 320px–1920px+
+Shopping cart · Validation · Mobile-first UI
 
----
+</td>
+<td width="33%" valign="top" align="center">
 
 ### ◼ Vehicle Tax Calculator
 **Desktop OOP Application**
 
-A dual implementation of a vehicle tax calculation system using Java Swing and C++ Qt Widgets.
+Vehicle tax calculation system implemented with Java Swing and C++ Qt.
 
-`Java` `C++` `OOP` `NetBeans` `Qt`
+`Java` `C++` `OOP`
 
-**Highlights:** PKB & SWDKLLJ calculation · transaction history · persistence · search/edit/delete
+PKB & SWDKLLJ · History · Data management
+
+</td>
+</tr>
+</table>
+</div>
 
 ---
 
@@ -135,12 +145,18 @@ A dual implementation of a vehicle tax calculation system using Java Swing and C
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=briandicky09&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true" height="170" alt="GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=briandicky09&layout=compact&hide_border=true&langs_count=6" height="170" alt="Top languages" />
+<a href="https://github.com/briandicky09">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=briandicky09&theme=github_dark" height="180" alt="GitHub statistics" />
+</a>
+<a href="https://github.com/briandicky09">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=briandicky09&theme=github_dark" height="180" alt="Repository languages" />
+</a>
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=briandicky09&hide_border=true" alt="GitHub streak" />
+<a href="https://github.com/briandicky09">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=briandicky09&theme=github_dark" width="95%" alt="GitHub contribution activity" />
+</a>
 
 </div>
 
@@ -148,12 +164,16 @@ A dual implementation of a vehicle tax calculation system using Java Swing and C
 
 ## `07` — Beyond the code
 
+<div align="center">
+
 I also enjoy working in team environments and have experience coordinating people and responsibilities through faculty events and student committees.
 
 **LANIK 2025** · Discipline Coordinator  
 **Fasilkom Fest 2024** · Security & Licensing Coordinator
 
-These experiences taught me that good software is not only about code — **communication, responsibility, and teamwork matter too.**
+*Good software is not only about code — communication, responsibility, and teamwork matter too.*
+
+</div>
 
 ---
 
@@ -163,7 +183,7 @@ These experiences taught me that good software is not only about code — **comm
 
 **Fullstack Web Developer · Frontend Specialist**
 
-<a href="https://briandicky.vercel.app">Portfolio</a> · <a href="https://linkedin.com/in/briandicky">LinkedIn</a> · <a href="mailto:briandicky09@gmail.com">Email</a>
+<a href="https://linkedin.com/in/briandicky">LinkedIn</a> · <a href="mailto:briandicky09@gmail.com">Email</a>
 
 <br/><br/>
 
