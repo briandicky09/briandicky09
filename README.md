@@ -1,76 +1,66 @@
 <div align="center">
 
-# BRIAN DICKY VANKA
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0F172A,50:172554,100:312E81&text=Brian%20Dicky&fontColor=FFFFFF&fontSize=42&fontAlignY=40&desc=Fullstack%20Web%20Developer%20%7C%20Frontend%20Specialist&descAlignY=62&descSize=16" width="100%" alt="Brian Dicky header" />
 
-### Fullstack Web Developer · Frontend Specialist
-
-Building responsive web experiences with clean architecture and practical engineering.
+### Building interfaces that feel simple — and systems that work.
 
 <p>
-  <a href="https://github.com/briandicky09"><img src="https://img.shields.io/badge/GitHub-briandicky09-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://linkedin.com/in/briandicky"><img src="https://img.shields.io/badge/LinkedIn-briandicky-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:briandicky09@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://briandicky.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Visit-2563EB?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://linkedin.com/in/briandicky"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:briandicky09@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
+<img src="https://komarev.com/ghpvc/?username=briandicky09&style=flat-square&color=2563EB&label=PROFILE+VIEWS" alt="Profile views" />
+
 </div>
 
 ---
 
-## About
+## `01` — A little about me
 
-I'm an **Informatics student and fullstack web developer with a strong frontend specialization**. I build responsive web applications using modern HTML, CSS, and JavaScript, with practical experience in CRUD systems, frontend–backend integration, REST API fundamentals, and modular UI architecture.
+I'm **Brian Dicky Vanka Andaraneva**, an Informatics student at **UPN "Veteran" Jawa Timur** focused on building responsive web applications and growing as a fullstack developer.
 
-Currently looking for opportunities as an **internship, junior developer, or remote developer** where I can contribute to real-world products and continue growing as an engineer.
+My strongest area is **frontend development** — turning ideas into clean, responsive interfaces — while continuing to strengthen backend integration, APIs, databases, and software engineering fundamentals.
 
-> **Based in Sidoarjo, East Java, Indonesia** · Informatics @ UPN "Veteran" Jawa Timur
+```text
+FOCUS
+├── Frontend Engineering
+├── Fullstack Web Development
+├── UI / Responsive Web
+└── Practical Software Projects
+```
 
 ---
 
-## Technical Stack
+## `02` — What I build
 
 <table>
 <tr>
-<td valign="top" width="50%">
+<td width="33%" align="center">
 
-### Frontend
+**WEB**
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6%2B-F7DF1E?style=flat-square&logo=javascript&logoColor=111111)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Responsive Design](https://img.shields.io/badge/Responsive-UI-6E56CF?style=flat-square)
+Responsive interfaces  
+CRUD applications  
+E-commerce experiences
 
 </td>
-<td valign="top" width="50%">
+<td width="33%" align="center">
 
-### Backend
+**SYSTEMS**
 
-![Node.js](https://img.shields.io/badge/Node.js-Fundamentals-339933?style=flat-square&logo=node.js&logoColor=white)
-![REST API](https://img.shields.io/badge/REST-API-FF6C37?style=flat-square)
-![CRUD](https://img.shields.io/badge/CRUD-Operations-7952B3?style=flat-square)
-![Integration](https://img.shields.io/badge/Frontend--Backend-Integration-0EA5E9?style=flat-square)
-
-</td>
-</tr>
-<tr>
-<td valign="top">
-
-### Data & Storage
-
-![localStorage](https://img.shields.io/badge/localStorage-Persistence-F59E0B?style=flat-square)
-![JSON](https://img.shields.io/badge/JSON-Data_Layer-000000?style=flat-square&logo=json&logoColor=white)
-![Database](https://img.shields.io/badge/Database-Basics-336791?style=flat-square)
+Frontend ↔ Backend  
+REST API integration  
+Data & persistence
 
 </td>
-<td valign="top">
+<td width="33%" align="center">
 
-### Tools
+**ENGINEERING**
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+Modular architecture  
+Clean UI patterns  
+Problem solving
 
 </td>
 </tr>
@@ -78,137 +68,105 @@ Currently looking for opportunities as an **internship, junior developer, or rem
 
 ---
 
-## Selected Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### PULSE
-**Inventory Management Web App** · `Apr 2025`
-
-Framework-free inventory system designed for small businesses.
-
-- Full CRUD for products, categories, and suppliers
-- Category filtering and live product search
-- Low-stock & expiry alert system
-- KPI-based analytics dashboard
-- Offline persistence with `localStorage` + JSON data layer
-- Modular architecture using the Pub/Sub pattern
-
-`HTML5` `CSS3` `JavaScript` `localStorage`
-
-</td>
-<td width="50%" valign="top">
-
-### Kopi Nusantara
-**Coffee E-Commerce Landing Page** · `Apr 2025`
-
-Responsive multi-page e-commerce experience for an Indonesian local coffee brand.
-
-- 6-page responsive website
-- Shopping cart and order form
-- Client-side form validation
-- Mobile-first layout from `320px` to `1920px+`
-- Flexbox, CSS Grid, and BEM-inspired design tokens
-
-`HTML5` `CSS3` `Vanilla JavaScript`
-
-</td>
-</tr>
-<tr>
-<td colspan="2" valign="top">
-
-### Sistem Perhitungan Pajak Kendaraan
-**Vehicle Tax Calculation System** · `May 2026 – Jun 2026`
-
-Academic group project implementing the same vehicle-tax calculation concept in two desktop environments.
-
-- Calculates PKB and SWDKLLJ from owner and vehicle data
-- Demonstrates core OOP principles across two frameworks
-- Detailed calculation results and transaction history
-- Qt implementation adds file persistence, search, edit, and delete features
-
-`Java` `NetBeans` `Swing` `C++` `Qt Creator` `Qt Widgets`
-
-</td>
-</tr>
-</table>
-
----
-
-## Experience
-
-**Fullstack Web Developer Trainee** · Coding Camp powered by DBS Foundation × Dicoding  
-`Mar 2026 – Jun 2026` · Online, Project-Based
-
-- Developed a fullstack web application featuring **3 CRUD-based modules** with complete data lifecycle management.
-- Implemented frontend–backend integration with database connectivity in an agile, project-based engineering environment.
-
-**Mobile Device Technician** · Piccom Cellular  
-`Nov 2024 – Jan 2025` · Mojokerto, East Java
-
-- Serviced **50+ customers/month**, managing **10+ devices/day** across hardware and software diagnostics.
-- Achieved an **85% software issue resolution rate** across 150+ devices.
-
----
-
-## Education
-
-**Bachelor's Degree in Informatics**  
-UPN "Veteran" Jawa Timur · `Aug 2024 – Present`
-
-**GPA: 3.75 / 4.00**  
-Relevant coursework: OOP · Database Systems · Web Development · Information Systems
-
----
-
-## Leadership
-
-**Discipline Coordinator — LANIK 2025**  
-Faculty of Computer Science · `Nov 2025`
-
-Coordinated discipline and crowd management for **200+ students** with a **10+ member committee team**.
-
-**Security & Licensing Coordinator — Fasilkom Fest 2024**  
-Faculty of Computer Science · `Aug 2024 – Jan 2025`
-
-Managed external institutional licensing with **2+ organizations** and served as security delegate for an **8-team MLBB eSports competition**.
-
----
-
-## Certifications
-
-| Certification | Issuer | Date |
-|---|---|---|
-| Belajar Membuat Aplikasi Web dengan React | Dicoding Indonesia | May 2026 |
-| Belajar Dasar Pemrograman JavaScript | Dicoding Indonesia | Apr 2026 |
-| Belajar Dasar Pemrograman Web | Dicoding Indonesia | Apr 2026 |
-| Belajar Membuat Front-End Web Untuk Pemula | Dicoding Indonesia | Apr 2026 |
-
----
-
-## GitHub Activity
+## `03` — Toolbox
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=briandicky09&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" height="165" alt="GitHub statistics" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=briandicky09&layout=compact&hide_border=true&langs_count=8" height="165" alt="Top languages" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,git,github,figma,vercel&perline=10" alt="Technology stack" />
 
-<br/>
+<br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=briandicky09&hide_border=true" alt="GitHub streak" />
+`HTML5` · `CSS3` · `JavaScript` · `React` · `Node.js` · `Python` · `Git` · `GitHub` · `Figma` · `Vercel`
 
 </div>
 
 ---
 
+## `04` — Selected work
+
+> A few projects that represent how I like to solve problems.  
+> More projects live in my repositories.
+
+### ◼ PULSE
+**Inventory Management Web App**
+
+A framework-free inventory system for small businesses, built around product, category, and supplier management.
+
+`JavaScript` `CRUD` `localStorage` `Pub/Sub`
+
+**Highlights:** low-stock & expiry alerts · live search · KPI dashboard · offline persistence
+
+---
+
+### ◼ Kopi Nusantara
+**Coffee E-Commerce Experience**
+
+A six-page responsive e-commerce website for an Indonesian coffee brand, designed mobile-first without a CSS framework.
+
+`HTML` `CSS` `Vanilla JavaScript`
+
+**Highlights:** shopping cart · order form · validation · responsive 320px–1920px+
+
+---
+
+### ◼ Vehicle Tax Calculator
+**Desktop OOP Application**
+
+A dual implementation of a vehicle tax calculation system using Java Swing and C++ Qt Widgets.
+
+`Java` `C++` `OOP` `NetBeans` `Qt`
+
+**Highlights:** PKB & SWDKLLJ calculation · transaction history · persistence · search/edit/delete
+
+---
+
+## `05` — Currently
+
+```diff
++ Studying Informatics
++ Building fullstack web projects
++ Strengthening backend & API skills
++ Exploring better ways to turn ideas into usable software
+```
+
+---
+
+## `06` — GitHub at a glance
+
 <div align="center">
 
-### Let's build something useful.
+<img src="https://github-readme-stats.vercel.app/api?username=briandicky09&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true" height="170" alt="GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=briandicky09&layout=compact&hide_border=true&langs_count=6" height="170" alt="Top languages" />
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=briandicky09&hide_border=true" alt="GitHub streak" />
+
+</div>
+
+---
+
+## `07` — Beyond the code
+
+I also enjoy working in team environments and have experience coordinating people and responsibilities through faculty events and student committees.
+
+**LANIK 2025** · Discipline Coordinator  
+**Fasilkom Fest 2024** · Security & Licensing Coordinator
+
+These experiences taught me that good software is not only about code — **communication, responsibility, and teamwork matter too.**
+
+---
+
+<div align="center">
+
+## Let's build something meaningful.
 
 **Fullstack Web Developer · Frontend Specialist**
 
-<a href="https://linkedin.com/in/briandicky">LinkedIn</a> · <a href="mailto:briandicky09@gmail.com">Email</a>
+<a href="https://briandicky.vercel.app">Portfolio</a> · <a href="https://linkedin.com/in/briandicky">LinkedIn</a> · <a href="mailto:briandicky09@gmail.com">Email</a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:312E81,50:172554,100:0F172A" width="100%" alt="Footer" />
 
 </div>
