@@ -141,7 +141,17 @@ PKB & SWDKLLJ · History · Data management
 
 ---
 
-## `06` — GitHub at a glance
+## `06` — Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/briandicky09/briandicky09/output/github-contribution-grid-snake.svg" width="95%" alt="GitHub contribution snake animation" />
+
+</div>
+
+---
+
+## `07` — GitHub at a glance
 
 <div align="center">
 
@@ -162,7 +172,7 @@ PKB & SWDKLLJ · History · Data management
 
 ---
 
-## `07` — Beyond the code
+## `08` — Beyond the code
 
 <div align="center">
 
