@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0F172A,50:172554,100:312E81&text=Brian%20Dicky&fontColor=FFFFFF&fontSize=42&fontAlignY=40&desc=Fullstack%20Web%20Developer%20%7C%20Frontend%20Specialist&descAlignY=62&descSize=16" width="100%" alt="Brian Dicky header" />
 
-### Building interfaces that feel simple — and systems that work.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2800&pause=900&color=60A5FA&center=true&vCenter=true&width=600&lines=Focused+on+Frontend+Development;Building+Fullstack+Web+Applications;Creating+Clean+%26+Responsive+Interfaces;Exploring+AI-powered+Web+Solutions;Always+Learning.+Always+Building." alt="Typing focus" />
 
 <p>
 <a href="https://linkedin.com/in/briandicky"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
