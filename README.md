@@ -6,7 +6,7 @@
 
 <p>
 <a href="https://linkedin.com/in/briandicky"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=briandicky09@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=briandicky09@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-Connect-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Connect" /></a>
 </p>
 
 <img src="https://komarev.com/ghpvc/?username=briandicky09&style=flat-square&color=2563EB&label=PROFILE+VIEWS" alt="Profile views" />
@@ -183,7 +183,7 @@ I also enjoy working in team environments and have experience coordinating peopl
 
 **Fullstack Web Developer · Frontend Specialist**
 
-<a href="https://linkedin.com/in/briandicky">LinkedIn</a> · <a href="https://mail.google.com/mail/?view=cm&fs=1&to=briandicky09@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" /></a>
+<a href="https://linkedin.com/in/briandicky">LinkedIn</a> · <a href="https://mail.google.com/mail/?view=cm&fs=1&to=briandicky09@gmail.com" target="_blank">Gmail</a>
 
 <br/><br/>
 
