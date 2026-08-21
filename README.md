@@ -172,21 +172,6 @@ PKB & SWDKLLJ · History · Data management
 
 ---
 
-## `08` — Beyond the code
-
-<div align="center">
-
-I also enjoy working in team environments and have experience coordinating people and responsibilities through faculty events and student committees.
-
-**LANIK 2025** · Discipline Coordinator  
-**Fasilkom Fest 2024** · Security & Licensing Coordinator
-
-*Good software is not only about code — communication, responsibility, and teamwork matter too.*
-
-</div>
-
----
-
 <div align="center">
 
 ## Let's build something meaningful.
