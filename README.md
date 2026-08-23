@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0F172A,50:172554,100:312E81&text=Brian%20Dicky&fontColor=FFFFFF&fontSize=42&fontAlignY=40&desc=Fullstack%20Web%20Developer%20%7C%20Frontend%20Focused&descAlignY=62&descSize=16" width="100%" alt="Brian Dicky header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0F172A,50:172554,100:312E81&text=Brian%20Dicky&fontColor=FFFFFF&fontSize=42&fontAlignY=40&desc=Fullstack%20Web%20Developer&descAlignY=62&descSize=16" width="100%" alt="Brian Dicky header" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2800&pause=900&color=60A5FA&center=true&vCenter=true&width=600&lines=Building+Fullstack+Web+Applications;Focused+on+Frontend+Development;Working+with+Laravel+%26+PHP;Exploring+React+%26+Vite;Always+Learning.+Always+Building." alt="Typing focus" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2800&pause=900&color=60A5FA&center=true&vCenter=true&width=600&lines=Building+Fullstack+Web+Applications;Working+with+Laravel+%26+PHP;Developing+Practical+Software+Projects;Exploring+React+%26+Vite;Always+Learning.+Always+Building." alt="Typing focus" />
 
 <p>
 <a href="https://linkedin.com/in/briandicky"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -19,15 +19,15 @@
 
 I'm **Brian Dicky Vanka Andaraneva**, a fifth-semester **Informatics undergraduate at UPN "Veteran" Jawa Timur** with hands-on experience in fullstack web development.
 
-I work across **frontend and backend development**, with a strong focus on building responsive interfaces and integrating them with practical backend logic. My current stack centers on **PHP, Laravel, HTML5, CSS3, JavaScript, Bootstrap, Tailwind CSS, and MySQL**, while I'm expanding my frontend skills with **React and Vite**.
+I build web applications across the application stack, with current experience in **PHP, Laravel, HTML5, CSS3, JavaScript, Bootstrap, Tailwind CSS, and MySQL**. I also use **Git, GitHub, VS Code, XAMPP, Vite, Figma, Vercel, and Draw.io**, while continuing to expand my skills in modern web development.
 
 I am currently working as a **Fullstack Developer at Javatekno Mitra Solusi**, developing the **PUSATKOS** web application with Laravel and PHP.
 
 ```text
 FOCUS
 ├── Fullstack Web Development
-├── Frontend Engineering
 ├── Laravel & PHP
+├── Web Application Development
 └── Practical Software Projects
 ```
 
@@ -40,10 +40,10 @@ FOCUS
 <tr>
 <td width="33%" align="center">
 
-**WEB**
+**WEB APPLICATIONS**
 
-Responsive interfaces  
-CRUD applications  
+Responsive web applications  
+CRUD-based systems  
 E-commerce & rental platforms
 
 </td>
@@ -60,7 +60,7 @@ MySQL integration
 
 **ENGINEERING**
 
-Frontend-backend integration  
+Application integration  
 Data persistence  
 Practical problem solving
 
@@ -150,7 +150,7 @@ PKB & SWDKLLJ · History · Search · Edit & delete
 + Working as a Fullstack Developer at Javatekno Mitra Solusi
 + Developing the PUSATKOS application with Laravel & PHP
 + Participating in Asah by Dicoding as an AI Full-Stack Developer
-+ Expanding React & Vite skills
++ Expanding skills in modern web development
 + Strengthening backend, database, and fullstack engineering skills
 ```
 
@@ -191,7 +191,7 @@ PKB & SWDKLLJ · History · Search · Edit & delete
 
 ## Let's build something meaningful.
 
-**Fullstack Web Developer · Frontend Focused**
+**Fullstack Web Developer**
 
 <a href="https://linkedin.com/in/briandicky">LinkedIn</a> · <a href="https://mail.google.com/mail/?view=cm&fs=1&to=briandicky09@gmail.com" target="_blank">Gmail</a>
 
