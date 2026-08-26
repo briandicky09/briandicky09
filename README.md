@@ -93,24 +93,6 @@
   </a>
 </div>
 
-<br>
-
-<div align="center">
-  <img width="70%" src="./profile/streak.svg" alt="GitHub Streak" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="./profile/trophy.svg" alt="GitHub Trophies" />
-</div>
-
-<br>
-
-<div align="center">
-  <img width="95%" src="./profile/activity-graph.svg" alt="GitHub Activity Graph" />
-</div>
-
 </details>
 
 ---
