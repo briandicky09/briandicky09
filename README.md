@@ -16,7 +16,7 @@
       </p>
     </td>
     <td width="35%" align="center" valign="middle">
-      <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="280" alt="Coding animation" />
+      <img src="https://media.tenor.com/YZPnGuPeZv8AAAAd/coding.gif" width="280" alt="Chill coding animation" />
     </td>
   </tr>
 </table>
