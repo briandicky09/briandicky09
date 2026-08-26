@@ -96,25 +96,19 @@
 <br>
 
 <div align="center">
-  <a href="https://github.com/briandicky09">
-    <img width="70%" src="https://streak-stats.demolab.com/?user=briandicky09&theme=dark&hide_border=true&background=0D1117&ring=60A5FA&fire=60A5FA&currStreakLabel=60A5FA" alt="GitHub Streak" />
-  </a>
+  <img width="70%" src="./profile/streak.svg" alt="GitHub Streak" />
 </div>
 
 <br>
 
 <div align="center">
-  <a href="https://github-profile-trophy-fork-two.vercel.app/?username=briandicky09">
-    <img src="https://github-profile-trophy-fork-two.vercel.app/?username=briandicky09&theme=darkhub&no-frame=true&no-bg=true&column=6" alt="GitHub Trophies" />
-  </a>
+  <img src="./profile/trophy.svg" alt="GitHub Trophies" />
 </div>
 
 <br>
 
 <div align="center">
-  <a href="https://github.com/briandicky09">
-    <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=briandicky09" alt="GitHub Activity Graph" />
-  </a>
+  <img width="95%" src="./profile/activity-graph.svg" alt="GitHub Activity Graph" />
 </div>
 
 </details>
