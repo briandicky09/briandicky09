@@ -85,7 +85,20 @@
 <br>
 
 <div align="center">
-  <img width="95%" src="./profile/github-analytics.svg" alt="GitHub Analytics" />
+  <a href="https://github.com/briandicky09">
+    <img height="180" src="https://github-readme-stats-fast.vercel.app/api?username=briandicky09&show_icons=true&hide_border=true&theme=dark&title_color=60A5FA&icon_color=60A5FA&text_color=FFFFFF&bg_color=0D1117&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/briandicky09">
+    <img height="180" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=briandicky09&text_color=FFFFFF&bg_color=0D1117&theme=dark&title_color=60A5FA&langs_count=8&layout=compact&hide_border=true" alt="Most Used Languages" />
+  </a>
+</div>
+
+<br>
+
+<h3 align="center">📈 Additional GitHub Analytics</h3>
+
+<div align="center">
+  <img width="95%" src="./profile/github-analytics.svg" alt="Additional GitHub Analytics" />
 </div>
 
 </details>
