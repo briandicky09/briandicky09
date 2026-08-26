@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/bignutty/fluent-emoji/main/animated-static/1f44b.png" width="28" height="28" /> , I'm Brian Dicky Vanka Andaraneva</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/bignutty/fluent-emoji/main/animated-static/1f44b.png" width="28" height="28" /> , I'm Brian Dicky</h1>
 
 <p align="center">
   <a href="https://readme-typing-svg.demolab.com"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=900&color=60A5FA&center=true&vCenter=true&width=600&lines=Fullstack+Web+Developer;Laravel+%26+PHP+Developer;Web+Application+Developer;AI+Full-Stack+Developer+Learner" alt="Typing SVG" /></a>
