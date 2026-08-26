@@ -40,42 +40,49 @@
 <summary><img src="https://raw.githubusercontent.com/bignutty/fluent-emoji/main/animated-static/1f4bb.png" width="22" height="22" /> <b>Technology Stack</b></summary>
 <br>
 
-<div align="center">
-
-<h4>Programming Languages</h4>
-<p>
-  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
-  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
-</p>
-
-<h4>Frameworks & Libraries</h4>
-<p>
-  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" />
-  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" />
-  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
-  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" />
-</p>
-
-<h4>Database & Services</h4>
-<p>
-  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-</p>
-
-<h4>Tools & Platforms</h4>
-<p>
-  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
-  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" />
-</p>
-
-</div>
+<table width="95%" align="center" border="1" cellpadding="18" cellspacing="0">
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <h4>Programming Languages</h4>
+      <p>
+        <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+        <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+        <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+        <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+        <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+        <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+      </p>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <h4>Frameworks & Libraries</h4>
+      <p>
+        <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" />
+        <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+        <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" />
+        <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+        <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <h4>Database & Services</h4>
+      <p>
+        <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+      </p>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <h4>Tools & Platforms</h4>
+      <p>
+        <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+        <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+        <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+        <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+        <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" />
+      </p>
+    </td>
+  </tr>
+</table>
 
 </details>
 
