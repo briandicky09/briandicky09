@@ -37,7 +37,7 @@
 ---
 
 <details open>
-<summary><img src="https://raw.githubusercontent.com/bignutty/fluent-emoji/main/animated-static/1f4bb.png" width="22" height="22" /> <b>Technology Stack</b></summary>
+<summary><img src="https://raw.githubusercontent.com/goforbg/telegram-emoji-gifs/master/girl-with-laptop.gif" width="22" height="22" /> <b>Technology Stack</b></summary>
 <br>
 
 <div align="center">
@@ -82,7 +82,7 @@
 ---
 
 <details open>
-<summary><img src="https://raw.githubusercontent.com/bignutty/fluent-emoji/main/animated-static/1f4ca.png" width="22" height="22" /> <b>GitHub Analytics</b></summary>
+<summary><img src="https://raw.githubusercontent.com/goforbg/telegram-emoji-gifs/master/currency-conversion.gif" width="22" height="22" /> <b>GitHub Analytics</b></summary>
 <br>
 
 <div align="center">
@@ -96,7 +96,7 @@
 
 <br>
 
-<h3 align="center"><img src="https://raw.githubusercontent.com/bignutty/fluent-emoji/main/animated-static/1f4ca.png" width="22" height="22" /> Additional GitHub Analytics</h3>
+<h3 align="center"><img src="https://raw.githubusercontent.com/goforbg/telegram-emoji-gifs/master/abacus.gif" width="22" height="22" /> Additional GitHub Analytics</h3>
 
 <div align="center">
   <img width="95%" src="./profile/github-analytics.svg" alt="Additional GitHub Analytics" />
