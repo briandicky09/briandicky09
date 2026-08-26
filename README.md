@@ -10,7 +10,7 @@
   <tr>
     <td width="65%" valign="top">
       <p align="justify">
-        <b>Hello there!</b> I'm <b>Brian Dicky Vanka Andaraneva</b>, an Informatics undergraduate at <b>UPN "Veteran" Jawa Timur</b> with a strong interest in fullstack web development and practical software engineering.
+        <b>Hello there!</b> I'm <b>Brian Dicky</b>, an Informatics undergraduate at <b>UPN "Veteran" Jawa Timur</b> with a strong interest in fullstack web development and practical software engineering.
         <br><br>
         My technical journey focuses on <b>Laravel, PHP, JavaScript, React, MySQL, REST APIs</b>, and modern web technologies. I enjoy building practical applications, working with backend systems, databases, and continuously improving my development skills.
       </p>
