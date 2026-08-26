@@ -37,7 +37,7 @@
 ---
 
 <details open>
-<summary><img src="https://raw.githubusercontent.com/bignutty/fluent-emoji/main/animated-static/1f4bb.png" width="22" height="22" /> <b>Technology Stack</b></summary>
+<summary><img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="24" height="24" /> <b>Technology Stack</b></summary>
 <br>
 
 <table width="95%" align="center" border="1" cellpadding="18" cellspacing="0">
@@ -89,7 +89,7 @@
 ---
 
 <details open>
-<summary><img src="https://raw.githubusercontent.com/bignutty/fluent-emoji/main/animated-static/1f4ca.png" width="22" height="22" /> <b>GitHub Analytics</b></summary>
+<summary><img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="24" height="24" /> <b>GitHub Analytics</b></summary>
 <br>
 
 <div align="center">
@@ -103,7 +103,7 @@
 
 <br>
 
-<h3 align="center"><img src="https://raw.githubusercontent.com/bignutty/fluent-emoji/main/animated-static/1f4ca.png" width="22" height="22" /> Additional GitHub Analytics</h3>
+<h3 align="center"><img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="24" height="24" /> Additional GitHub Analytics</h3>
 
 <div align="center">
   <img width="95%" src="./profile/github-analytics.svg" alt="Additional GitHub Analytics" />
