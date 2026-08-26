@@ -1,20 +1,34 @@
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=briandicky09&theme=github_dark" width="95%" alt="GitHub profile details" />
+# 📊 GitHub Analytics
 
-<img src="https://github-readme-stats.vercel.app/api?username=briandicky09&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" height="180" alt="GitHub statistics" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=briandicky09&layout=compact&theme=github_dark&hide_border=true" height="180" alt="Top languages" />
+<a href="https://github.com/briandicky09">
+<img height="180" src="https://github-readme-stats-fast.vercel.app/api?username=briandicky09&show_icons=true&hide_border=true&theme=dark&title_color=60A5FA&icon_color=60A5FA&text_color=FFFFFF&bg_color=0D1117&count_private=true&include_all_commits=true&cache_seconds=1800" alt="GitHub Stats" />
+</a>
+<a href="https://github.com/briandicky09">
+<img height="180" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=briandicky09&layout=compact&hide_border=true&theme=dark&title_color=60A5FA&text_color=FFFFFF&bg_color=0D1117&langs_count=8&cache_seconds=1800" alt="Most Used Languages" />
+</a>
 
-<br/>
+<br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=briandicky09&theme=github-dark-blue&hide_border=true" width="95%" alt="GitHub streak" />
+<a href="https://github.com/briandicky09">
+<img width="70%" src="https://github-readme-stats-fast.vercel.app/api/streak/?username=briandicky09&theme=dark&hide_border=true&background=0D1117&ring=60A5FA&fire=60A5FA&currStreakLabel=60A5FA" alt="GitHub Streak" />
+</a>
 
-<br/>
+<br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=briandicky09&theme=github-compact&hide_border=true" width="95%" alt="GitHub activity graph" />
+<a href="https://github.com/briandicky09">
+<img src="https://github-profile-trophy.vercel.app/?username=briandicky09&theme=darkhub&no-frame=true&no-bg=true&column=6" alt="GitHub Trophies" />
+</a>
 
-<br/>
+<br><br>
 
-<img src="https://raw.githubusercontent.com/briandicky09/briandicky09/output/github-contribution-grid-snake.svg" width="95%" alt="GitHub contribution snake" />
+<a href="https://github.com/briandicky09">
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=briandicky09&theme=github-compact&hide_border=true&area=true" alt="GitHub Activity Graph" />
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=briandicky09&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
 
 </div>
