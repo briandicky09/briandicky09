@@ -1,0 +1,37 @@
+name: Update GitHub Analytics
+
+on:
+  schedule:
+    - cron: "0 3 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Update analytics card
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          python - <<'PY'
+          import json, os, urllib.request
+          u='briandicky09'
+          req=urllib.request.Request(f'https://api.github.com/users/{u}',headers={'Authorization':f'Bearer {os.environ["GH_TOKEN"]}','Accept':'application/vnd.github+json'})
+          data=json.load(urllib.request.urlopen(req))
+          repos=data.get('public_repos',0); followers=data.get('followers',0)
+          p='profile/github-analytics.svg'
+          s=open(p,encoding='utf-8').read()
+          import re
+          s=re.sub(r'(<text x="45" y="130" class="value">).*?(</text>)',rf'\\1{repos}\\2',s)
+          s=re.sub(r'(<text x="585" y="130" class="value">).*?(</text>)',rf'\\1{followers}\\2',s)
+          open(p,'w',encoding='utf-8').write(s)
+          PY
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add profile/github-analytics.svg
+          git commit -m 'Update GitHub analytics' || exit 0
+          git push
