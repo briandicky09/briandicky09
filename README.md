@@ -25,7 +25,7 @@
 
 ---
 
-<h3>About Me 🧑‍💻</h3>
+<h3><img src="https://raw.githubusercontent.com/bignutty/fluent-emoji/main/animated-static/1f44b.png" width="24" height="24" /> About Me</h3>
 
 - 🎓 Informatics undergraduate at <b>UPN "Veteran" Jawa Timur</b>
 - 💻 Fullstack Developer at <b>Javatekno Mitra Solusi</b>
@@ -37,7 +37,7 @@
 ---
 
 <details open>
-<summary>🛠️ <b>Technology Stack</b></summary>
+<summary><img src="https://raw.githubusercontent.com/bignutty/fluent-emoji/main/animated-static/1f4bb.png" width="22" height="22" /> <b>Technology Stack</b></summary>
 <br>
 
 <div align="center">
@@ -82,7 +82,7 @@
 ---
 
 <details open>
-<summary>📊 <b>GitHub Analytics</b></summary>
+<summary><img src="https://raw.githubusercontent.com/bignutty/fluent-emoji/main/animated-static/1f4ca.png" width="22" height="22" /> <b>GitHub Analytics</b></summary>
 <br>
 
 <div align="center">
@@ -96,7 +96,7 @@
 
 <br>
 
-<h3 align="center">📈 Additional GitHub Analytics</h3>
+<h3 align="center"><img src="https://raw.githubusercontent.com/bignutty/fluent-emoji/main/animated-static/1f4ca.png" width="22" height="22" /> Additional GitHub Analytics</h3>
 
 <div align="center">
   <img width="95%" src="./profile/github-analytics.svg" alt="Additional GitHub Analytics" />
@@ -107,12 +107,12 @@
 ---
 
 <div align="center">
-  <h3>🤝 Connect With Me</h3>
+  <h3><img src="https://raw.githubusercontent.com/bignutty/fluent-emoji/main/animated-static/1f91d.png" width="24" height="24" /> Connect With Me</h3>
   <a href="https://linkedin.com/in/briandicky"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:briandicky09@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
   <a href="https://github.com/briandicky09"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <br><br>
-  <h3>👁️ Profile Views</h3>
+  <h3><img src="https://raw.githubusercontent.com/bignutty/fluent-emoji/main/animated-static/1f440.png" width="24" height="24" /> Profile Views</h3>
   <img src="https://komarev.com/ghpvc/?username=briandicky09&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="briandicky09" />
   <br><br>
   <p>Created with 🖤 by <a href="https://github.com/briandicky09">Brian Dicky</a></p>
