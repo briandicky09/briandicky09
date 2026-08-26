@@ -107,7 +107,7 @@
 
 <div align="center">
   <a href="https://github.com/briandicky09">
-    <img src="https://github-profile-trophy.vercel.app/?username=briandicky09&theme=darkhub&no-frame=true&no-bg=true&column=6" alt="GitHub Trophies" />
+    <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=briandicky09&theme=darkhub&no-frame=true&no-bg=true&column=6" alt="GitHub Trophies" />
   </a>
 </div>
 
