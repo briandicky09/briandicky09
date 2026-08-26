@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Brian Dicky Vanka Andaraneva</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/bignutty/fluent-emoji/main/animated-static/1f44b.png" width="28" height="28" /> , I'm Brian Dicky Vanka Andaraneva</h1>
 
 <p align="center">
   <a href="https://readme-typing-svg.demolab.com"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=900&color=60A5FA&center=true&vCenter=true&width=600&lines=Fullstack+Web+Developer;Laravel+%26+PHP+Developer;Web+Application+Developer;AI+Full-Stack+Developer+Learner" alt="Typing SVG" /></a>
@@ -25,7 +25,7 @@
 
 ---
 
-<h3><img src="https://raw.githubusercontent.com/bignutty/fluent-emoji/main/animated-static/1f44b.png" width="24" height="24" /> About Me</h3>
+<h3><img src="https://raw.githubusercontent.com/bignutty/fluent-emoji/main/animated-static/1f9d1.png" width="24" height="24" /> About Me</h3>
 
 - 🎓 Informatics undergraduate at <b>UPN "Veteran" Jawa Timur</b>
 - 💻 Fullstack Developer at <b>Javatekno Mitra Solusi</b>
@@ -37,7 +37,7 @@
 ---
 
 <details open>
-<summary><img src="https://raw.githubusercontent.com/goforbg/telegram-emoji-gifs/master/girl-with-laptop.gif" width="22" height="22" /> <b>Technology Stack</b></summary>
+<summary><img src="https://raw.githubusercontent.com/bignutty/fluent-emoji/main/animated-static/1f4bb.png" width="22" height="22" /> <b>Technology Stack</b></summary>
 <br>
 
 <div align="center">
@@ -82,7 +82,7 @@
 ---
 
 <details open>
-<summary><img src="https://raw.githubusercontent.com/goforbg/telegram-emoji-gifs/master/currency-conversion.gif" width="22" height="22" /> <b>GitHub Analytics</b></summary>
+<summary><img src="https://raw.githubusercontent.com/bignutty/fluent-emoji/main/animated-static/1f4ca.png" width="22" height="22" /> <b>GitHub Analytics</b></summary>
 <br>
 
 <div align="center">
@@ -96,7 +96,7 @@
 
 <br>
 
-<h3 align="center"><img src="https://raw.githubusercontent.com/goforbg/telegram-emoji-gifs/master/abacus.gif" width="22" height="22" /> Additional GitHub Analytics</h3>
+<h3 align="center"><img src="https://raw.githubusercontent.com/bignutty/fluent-emoji/main/animated-static/1f4ca.png" width="22" height="22" /> Additional GitHub Analytics</h3>
 
 <div align="center">
   <img width="95%" src="./profile/github-analytics.svg" alt="Additional GitHub Analytics" />
