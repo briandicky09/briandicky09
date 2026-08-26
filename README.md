@@ -63,9 +63,7 @@
     </td>
     <td valign="top" width="50%">
       <h4>Database & Services</h4>
-      <p>
-        <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-      </p>
+      <p><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /></p>
       <h4>Tools & Platforms</h4>
       <p>
         <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
@@ -88,18 +86,10 @@
 
 <div align="center">
   <a href="https://github.com/briandicky09">
-    <img height="180" src="https://github-readme-stats-fast.vercel.app/api?username=briandicky09&show_icons=true&hide_border=true&theme=dark&title_color=60A5FA&icon_color=60A5FA&text_color=FFFFFF&bg_color=0D1117&count_private=true&include_all_commits=true&cache_seconds=1800" alt="GitHub Stats" />
+    <img height="180" src="https://github-readme-stats-fast.vercel.app/api?username=briandicky09&show_icons=true&hide_border=true&theme=dark&title_color=60A5FA&icon_color=60A5FA&text_color=FFFFFF&bg_color=0D1117&count_private=true&include_all_commits=true" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/briandicky09">
-    <img height="180" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=briandicky09&text_color=FFFFFF&bg_color=0D1117&theme=dark&title_color=60A5FA&langs_count=8&layout=compact&hide_border=true&cache_seconds=1800" alt="Most Used Languages" />
-  </a>
-</div>
-
-<br>
-
-<div align="center">
-  <a href="https://github.com/briandicky09">
-    <img width="70%" src="https://github-readme-stats-fast.vercel.app/api/streak/?username=briandicky09&show_icons=true&theme=dark&hide_border=true&background=0D1117&ring=60A5FA&fire=60A5FA&currStreakLabel=60A5FA" alt="GitHub Streak" />
+    <img height="180" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=briandicky09&text_color=FFFFFF&bg_color=0D1117&theme=dark&title_color=60A5FA&langs_count=8&layout=compact&hide_border=true" alt="Most Used Languages" />
   </a>
 </div>
 
@@ -107,7 +97,15 @@
 
 <div align="center">
   <a href="https://github.com/briandicky09">
-    <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=briandicky09&theme=darkhub&no-frame=true&no-bg=true&column=6" alt="GitHub Trophies" />
+    <img width="70%" src="https://streak-stats.demolab.com/?user=briandicky09&theme=dark&hide_border=true&background=0D1117&ring=60A5FA&fire=60A5FA&currStreakLabel=60A5FA" alt="GitHub Streak" />
+  </a>
+</div>
+
+<br>
+
+<div align="center">
+  <a href="https://github-profile-trophy-fork-two.vercel.app/?username=briandicky09">
+    <img src="https://github-profile-trophy-fork-two.vercel.app/?username=briandicky09&theme=darkhub&no-frame=true&no-bg=true&column=6" alt="GitHub Trophies" />
   </a>
 </div>
 
@@ -115,7 +113,7 @@
 
 <div align="center">
   <a href="https://github.com/briandicky09">
-    <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=briandicky09&theme=github-compact&hide_border=true&area=true" alt="GitHub Activity Graph" />
+    <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=briandicky09" alt="GitHub Activity Graph" />
   </a>
 </div>
 
