@@ -8,14 +8,14 @@
 
 <table width="100%">
   <tr>
-    <td width="65%" valign="top">
-      <p align="justify" style="line-height:1.5;">
+    <td width="70%" valign="top">
+      <div align="justify" style="line-height:1.55;">
         <b>Hello there!</b> I'm <b>Brian Dicky</b>, an Informatics undergraduate at <b>UPN "Veteran" Jawa Timur</b> with a strong interest in fullstack web development and practical software engineering.
         <br><br>
         My technical journey focuses on <b>Laravel, PHP, JavaScript, React, MySQL, REST APIs</b>, and modern web technologies. I enjoy building practical applications, working with backend systems, databases, and continuously improving my development skills.
-      </p>
+      </div>
     </td>
-    <td width="35%" align="center" valign="middle">
+    <td width="30%" align="center" valign="middle">
       <img src="https://media.giphy.com/media/3qxTSLJX04btMtKlse/giphy.gif" width="280" alt="Homer Simpson relaxing GIF" />
     </td>
   </tr>
