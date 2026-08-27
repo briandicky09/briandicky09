@@ -9,8 +9,9 @@
 <table width="100%">
   <tr>
     <td width="65%" valign="top">
-      <p style="line-height:1.6;">
-        <b>Hello there!</b> I'm <b>Brian Dicky</b>, an Informatics undergraduate at <b>UPN "Veteran" Jawa Timur</b> with a strong interest in fullstack web development and practical software engineering.<br><br>
+      <p align="justify" style="line-height:1.5;">
+        <b>Hello there!</b> I'm <b>Brian Dicky</b>, an Informatics undergraduate at <b>UPN "Veteran" Jawa Timur</b> with a strong interest in fullstack web development and practical software engineering.
+        <br><br>
         My technical journey focuses on <b>Laravel, PHP, JavaScript, React, MySQL, REST APIs</b>, and modern web technologies. I enjoy building practical applications, working with backend systems, databases, and continuously improving my development skills.
       </p>
     </td>
@@ -38,7 +39,6 @@
 <details open>
 <summary><img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="24" height="24" /> <b>Technology Stack</b></summary>
 <br>
-
 <table width="95%" align="center" border="1" cellpadding="18" cellspacing="0">
   <tr>
     <td width="50%" align="center" valign="top"><h4>Programming Languages</h4><p><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /> <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" /> <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /> <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" /></p></td>
