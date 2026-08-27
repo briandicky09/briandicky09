@@ -9,9 +9,8 @@
 <table width="100%">
   <tr>
     <td width="65%" valign="top">
-      <p align="justify">
-        <b>Hello there!</b> I'm <b>Brian Dicky</b>, an Informatics undergraduate at <b>UPN "Veteran" Jawa Timur</b> with a strong interest in fullstack web development and practical software engineering.
-        <br><br>
+      <p style="line-height:1.6;">
+        <b>Hello there!</b> I'm <b>Brian Dicky</b>, an Informatics undergraduate at <b>UPN "Veteran" Jawa Timur</b> with a strong interest in fullstack web development and practical software engineering.<br><br>
         My technical journey focuses on <b>Laravel, PHP, JavaScript, React, MySQL, REST APIs</b>, and modern web technologies. I enjoy building practical applications, working with backend systems, databases, and continuously improving my development skills.
       </p>
     </td>
@@ -42,48 +41,14 @@
 
 <table width="95%" align="center" border="1" cellpadding="18" cellspacing="0">
   <tr>
-    <td width="50%" align="center" valign="top">
-      <h4>Programming Languages</h4>
-      <p>
-        <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-        <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-        <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-        <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
-        <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-        <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
-      </p>
-    </td>
-    <td width="50%" align="center" valign="top">
-      <h4>Frameworks & Libraries</h4>
-      <p>
-        <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" />
-        <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-        <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" />
-        <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
-        <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" />
-      </p>
-    </td>
+    <td width="50%" align="center" valign="top"><h4>Programming Languages</h4><p><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /> <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" /> <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /> <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" /></p></td>
+    <td width="50%" align="center" valign="top"><h4>Frameworks & Libraries</h4><p><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" /> <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /> <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" /> <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" /> <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" /></p></td>
   </tr>
   <tr>
-    <td width="50%" align="center" valign="top">
-      <h4>Database & Services</h4>
-      <p>
-        <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-      </p>
-    </td>
-    <td width="50%" align="center" valign="top">
-      <h4>Tools & Platforms</h4>
-      <p>
-        <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-        <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-        <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-        <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
-        <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" />
-      </p>
-    </td>
+    <td width="50%" align="center" valign="top"><h4>Database & Services</h4><p><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /></p></td>
+    <td width="50%" align="center" valign="top"><h4>Tools & Platforms</h4><p><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /> <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /> <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /> <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" /> <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" /></p></td>
   </tr>
 </table>
-
 </details>
 
 ---
@@ -91,36 +56,12 @@
 <details open>
 <summary><img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="24" height="24" /> <b>GitHub Analytics</b></summary>
 <br>
-
-<div align="center">
-  <a href="https://github.com/briandicky09">
-    <img height="180" src="https://github-readme-stats-fast.vercel.app/api?username=briandicky09&show_icons=true&hide_border=true&theme=dark&title_color=60A5FA&icon_color=60A5FA&text_color=FFFFFF&bg_color=0D1117&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/briandicky09">
-    <img height="180" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=briandicky09&text_color=FFFFFF&bg_color=0D1117&theme=dark&title_color=60A5FA&langs_count=8&layout=compact&hide_border=true" alt="Most Used Languages" />
-  </a>
-</div>
-
+<div align="center"><a href="https://github.com/briandicky09"><img height="180" src="https://github-readme-stats-fast.vercel.app/api?username=briandicky09&show_icons=true&hide_border=true&theme=dark&title_color=60A5FA&icon_color=60A5FA&text_color=FFFFFF&bg_color=0D1117&count_private=true&include_all_commits=true" alt="GitHub Stats" /></a> <a href="https://github.com/briandicky09"><img height="180" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=briandicky09&text_color=FFFFFF&bg_color=0D1117&theme=dark&title_color=60A5FA&langs_count=8&layout=compact&hide_border=true" alt="Most Used Languages" /></a></div>
 <br>
-
 <h3 align="center"><img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="24" height="24" /> Additional GitHub Analytics</h3>
-
-<div align="center">
-  <img width="95%" src="./profile/github-analytics.svg" alt="Additional GitHub Analytics" />
-</div>
-
+<div align="center"><img width="95%" src="./profile/github-analytics.svg" alt="Additional GitHub Analytics" /></div>
 </details>
 
 ---
 
-<div align="center">
-  <h3><img src="https://raw.githubusercontent.com/bignutty/fluent-emoji/main/animated-static/1f91d.png" width="24" height="24" /> Connect With Me</h3>
-  <a href="https://linkedin.com/in/briandicky"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:briandicky09@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
-  <a href="https://github.com/briandicky09"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <br><br>
-  <h3><img src="https://raw.githubusercontent.com/bignutty/fluent-emoji/main/animated-static/1f440.png" width="24" height="24" /> Profile Views</h3>
-  <img src="https://komarev.com/ghpvc/?username=briandicky09&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="briandicky09" />
-  <br><br>
-  <p>Created with 🖤 by <a href="https://github.com/briandicky09">Brian Dicky</a></p>
-</div>
+<div align="center"><h3><img src="https://raw.githubusercontent.com/bignutty/fluent-emoji/main/animated-static/1f91d.png" width="24" height="24" /> Connect With Me</h3><a href="https://linkedin.com/in/briandicky"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> <a href="mailto:briandicky09@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a> <a href="https://github.com/briandicky09"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a><br><br><h3><img src="https://raw.githubusercontent.com/bignutty/fluent-emoji/main/animated-static/1f440.png" width="24" height="24" /> Profile Views</h3><img src="https://komarev.com/ghpvc/?username=briandicky09&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="briandicky09" /><br><br><p>Created with 🖤 by <a href="https://github.com/briandicky09">Brian Dicky</a></p></div>
