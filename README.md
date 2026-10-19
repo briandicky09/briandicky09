@@ -14,7 +14,7 @@
       <div align="justify">
         <b>Hello there!</b> I'm <b>Brian Dicky</b>, an Informatics undergraduate at <b>UPN "Veteran" Jawa Timur</b> with a strong interest in fullstack web development and practical software engineering.
         <br><br>
-        My technical journey focuses on <b>Laravel, PHP, JavaScript, React, MySQL, and REST APIs</b>. I enjoy building practical applications, working with backend systems, and learning through real-world product development.
+        My current projects focus on <b>Laravel, PHP, React, TypeScript, Tailwind CSS, and relational databases</b>. I build fullstack web applications, REST APIs, and practical tools, and I have also been exploring AI integrations with Google Gemini.
       </div>
     </td>
     <td width="30%" align="center" valign="middle">
@@ -39,44 +39,44 @@
 <details open>
 <summary><img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="24" height="24" alt="" /> <b>Technology Stack</b></summary>
 <br>
-<table width="95%" align="center" border="1" cellpadding="18" cellspacing="0">
-  <tr>
-    <td width="50%" align="center" valign="top">
-      <h4>Languages</h4>
-      <p>
-        <img height="30" alt="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-        <img height="30" alt="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-        <img height="30" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-        <img height="30" alt="PHP" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
-        <img height="30" alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-      </p>
-    </td>
-    <td width="50%" align="center" valign="top">
-      <h4>Frameworks & Libraries</h4>
-      <p>
-        <img height="30" alt="Laravel" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" />
-        <img height="30" alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-        <img height="30" alt="Bootstrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
-        <img height="30" alt="jQuery" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center" valign="top">
-      <h4>Database</h4>
-      <p><img height="30" alt="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /></p>
-    </td>
-    <td width="50%" align="center" valign="top">
-      <h4>Tools & Platforms</h4>
-      <p>
-        <img height="30" alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-        <img height="30" alt="GitHub" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-        <img height="30" alt="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
-        <img height="30" alt="VS Code" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-      </p>
-    </td>
-  </tr>
-</table>
+
+<p align="center">
+  <b>Languages</b><br>
+  <img height="30" alt="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img height="30" alt="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <img height="30" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img height="30" alt="TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+  <img height="30" alt="PHP" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+</p>
+
+<p align="center">
+  <b>Frameworks & UI</b><br>
+  <img height="30" alt="Laravel" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" />
+  <img height="30" alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <img height="30" alt="Inertia.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/inertiajs/inertiajs-original.svg" />
+  <img height="30" alt="Tailwind CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" />
+  <img height="30" alt="Bootstrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+  <img height="30" alt="Vite" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" />
+</p>
+
+<p align="center">
+  <b>Databases, APIs & Testing</b><br>
+  <img height="30" alt="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+  <img height="30" alt="SQLite" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" />
+  <img height="30" alt="Google Gemini" src="https://img.shields.io/badge/Google%20Gemini-4285F4?style=flat&logo=googlegemini&logoColor=white" />
+  <img height="30" alt="Midtrans" src="https://img.shields.io/badge/Midtrans-003B5C?style=flat&logoColor=white" />
+  <img height="30" alt="Pest PHP" src="https://img.shields.io/badge/Pest-PHP-9333EA?style=flat" />
+  <img height="30" alt="PHPUnit" src="https://img.shields.io/badge/PHPUnit-366488?style=flat" />
+</p>
+
+<p align="center">
+  <b>Tools</b><br>
+  <img height="30" alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img height="30" alt="GitHub" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+  <img height="30" alt="VS Code" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+</p>
+
+<p align="center"><i>Additional project experience: Java, C++/Qt, and vanilla JavaScript.</i></p>
 </details>
 
 ---
